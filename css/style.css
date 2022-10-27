@@ -5,6 +5,10 @@
   font-weight: normal;
   font-style: normal;
 }
+@media screen and (min-width: 0px) and (max-width: 765px) 
+{
+  .navbar1 { display: none; }  
+ }
 html {
   scroll-behavior: smooth;
 
