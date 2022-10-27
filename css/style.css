@@ -10,7 +10,7 @@
   .navbar1 { display: none; }
   .introevan{width:240px}
   a{margin-top:5px}
-  .photoentete{visibility: visible}
+  .photoentete{display: block}
 
  }
 html {
