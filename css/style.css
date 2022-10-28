@@ -21,7 +21,7 @@
   .iconmobile{display:none!important}
   .mobileh1{display:none!important}
   .mobileh3{display:none!important}
-  .titremobile{display:block;margin-left:75px}
+  .titremobile{display:block;margin-left:75px;margin-bottom:30px}
   header{margin-top:-125px}
  }
  @media screen and (min-width: 0px) and (max-width: 480px) 
