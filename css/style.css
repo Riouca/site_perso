@@ -23,7 +23,7 @@
   .mobileh3{display:none!important}
   header{margin-top:-130px}
   .info{margin-left:10%!important}
-  .modal-content{width:80%!important}
+  .modal-content{width:80%}
  }
  @media screen and (min-width: 390px) and (max-width: 470px) 
  {
@@ -35,15 +35,15 @@
    }
   @media screen and (min-width: 470px) and (max-width: 1100px) 
   {
-    .modal-content{width:80%!important}
+    .modal-content{width:80%}
    }
    @media screen and (min-width: 1100px) and (max-width: 1850px) 
    {
-     .modal-content{width:58%!important}
+     .modal-content{width:58%}
     }
    @media screen and (min-width: 1850px) and (max-width: 10000px) 
    {
-     .modal-content{width:35%!important}
+     .modal-content{width:35%}
     }
   @media screen and (min-width: 600px) and (max-width: 1000px) 
   {
