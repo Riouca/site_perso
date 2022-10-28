@@ -24,7 +24,7 @@
   .mobileh3{display:none!important}
   header{margin-top:-130px}
   .info{margin-left:10%!important}
-  .modal-content{width:80%!important}
+  .modal-content{width:80%}
  }
  @media screen and (min-width: 380px) and (max-width: 470px) 
  {
@@ -44,7 +44,7 @@
    }
   @media screen and (min-width: 1400px) and (max-width: 10000px) 
   {
-    .modal-content{width:35%!important}
+    .modal-content{width:35%}
    }
 
    @media screen and (min-width: 0px) and (max-width: 600px) 
