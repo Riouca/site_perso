@@ -42,7 +42,7 @@
   {
     .apropos{margin-left: 100px;width:80%;margin-top:180px}
    }
-  @media screen and (min-width: 950px) and (max-width: 10000px) 
+  @media screen and (min-width: 1300px) and (max-width: 10000px) 
   {
     .modal-content{width:50%!important}
    }
