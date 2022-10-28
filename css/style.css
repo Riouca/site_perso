@@ -15,7 +15,7 @@
 {
   .navbar1 { display: none }
   a{margin-top:5px}
-  .photoentete{display: absolute}
+  .photoentete{position: absolute}
   .modal-img{position: relative;width: 350px;height:200px;display: block;}
   .modal-p{position: relative;width: auto;}
 
