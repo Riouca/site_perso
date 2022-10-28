@@ -18,7 +18,6 @@
   .photoentete{display: absolute}
   .modal-img{position: relative;width: 350px;height:200px;display: block;}
   .modal-p{position: relative;width: auto;}
-  body{margin-top: 300px;}
 
  }
  @media screen and (min-width: 0px) and (max-width: 480px) 
