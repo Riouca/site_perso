@@ -34,6 +34,10 @@
   {
     .modal-img{display: none;}
    }
+  @media screen and (min-width: 850px) and (max-width: 1300px) 
+  {
+    .modal-content{width:80%!important}
+   }
   @media screen and (min-width: 600px) and (max-width: 1000px) 
   {
     .apropos{margin-left: 100px;width:80%;margin-top:180px}
