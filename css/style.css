@@ -43,7 +43,7 @@
    }
   @media screen and (min-width: 1400px) and (max-width: 10000px) 
   {
-    .modal-content{width:35%!important}
+    .modal-content{width:35%}
    }
 
    @media screen and (min-width: 0px) and (max-width: 600px) 
