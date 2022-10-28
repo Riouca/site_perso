@@ -18,6 +18,9 @@
   .photoentete{position: absolute}
   .modal-img{position: relative;width: 350px;height:200px;display: block;}
   .modal-p{position: relative;width: auto;}
+  .iconsmobile{display:none}
+  .h1mobile{color:#FF9000}
+  .h3mobile{color:#FF9000}
 
  }
  @media screen and (min-width: 0px) and (max-width: 480px) 
