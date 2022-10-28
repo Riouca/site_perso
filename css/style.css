@@ -17,11 +17,11 @@
 {
   .navbar1 { display: none }
   a{margin-top:5px}
-  .photoentete{position: absolute;top:30px}
+  .photoentete{position: absolute;padding-top:0px}
   .modal-img{position: relative;width: 350px;height:200px;display: block;}
   .modal-p{position: relative;width: auto;}
-  .aboutmobile{margin-top:300px;}
-  .nommobile{margin-left:80px;margin-top:10px;margin-bottom:50px;display:block}
+  .aboutmobile{margin-top:280px;}
+  .nommobile{margin-left:100px;margin-top:0px;margin-bottom:50px;display:block}
   .iconmobile{display:none!important}
  }
  @media screen and (min-width: 0px) and (max-width: 480px) 
