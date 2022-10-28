@@ -5,15 +5,34 @@
   font-weight: normal;
   font-style: normal;
 }
+.modal-p{
+  display: flex; margin-bottom: 30px;width:auto
+}
+.apropos{
+  margin-left: 100px;width:52%
+}
 @media screen and (min-width: 0px) and (max-width: 765px) 
 {
   .navbar1 { display: none;visibility:hidden }
-  .introevan{width:240px}
   a{margin-top:5px}
   .photoentete{display: block}
-  #page{display:block;visibility:visible}
+  .modal-img{position: relative;width: 350px;height:200px;display: block;}
+  .modal-p{position: relative;width: auto;}
 
  }
+ @media screen and (min-width: 0px) and (max-width: 480px) 
+ {
+   .modal-img{display: none;}
+  }
+  @media screen and (min-width: 600px) and (max-width: 1000px) 
+  {
+    .apropos{margin-left: 100px;width:80%;margin-top:180px}
+   }
+   @media screen and (min-width: 0px) and (max-width: 600px) 
+  {
+    .apropos{margin-left: 40px;width:80%;margin-top:180px}
+   }
+
 html {
   scroll-behavior: smooth;
 
