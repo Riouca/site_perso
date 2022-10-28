@@ -8,10 +8,9 @@
 .modal-p{
   display: flex; margin-bottom: 30px;width:auto
 }
-.aboutmobile{margin-top:70px;}
+.aboutmobile{margin-top:0px;}
 @media screen and (min-width: 850px) and (max-width: 9850px){
 .nommobile{display:none}
-.descmobile{display:none}
 
 }
 @media screen and (min-width: 0px) and (max-width: 850px) 
@@ -23,8 +22,6 @@
   .modal-p{position: relative;width: auto;}
   .aboutmobile{margin-top:300px;}
   .nommobile{margin-left:80px;margin-top:10px;margin-bottom:50px;display:block}
-  .descmobile{margin-left:80px;margin-top:10px;margin-bottom:50px;display:block}
-
   .iconmobile{display:none!important}
  }
  @media screen and (min-width: 0px) and (max-width: 480px) 
