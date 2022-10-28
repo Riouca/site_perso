@@ -9,10 +9,7 @@
   display: flex; margin-bottom: 30px;width:auto
 }
 .aboutmobile{margin-top:0px;}
-@media screen and (min-width: 850px) and (max-width: 9850px){
-.nommobile{display:none}
 
-}
 @media screen and (min-width: 0px) and (max-width: 850px) 
 {
   .navbar1 { display: none }
@@ -21,7 +18,6 @@
   .modal-img{position: relative;width: 350px;height:200px;display: block;}
   .modal-p{position: relative;width: auto;}
   .aboutmobile{margin-top:280px;}
-  .nommobile{margin-left:70px;margin-top:35px;margin-bottom:50px;display:block}
   .iconmobile{display:none!important}
   .mobileh1{display:none!important}
   .mobileh3{display:none!important}
