@@ -8,9 +8,7 @@
 .modal-p{
   display: flex; margin-bottom: 30px;width:auto
 }
-.modal-content{
-  width:80%
-}
+
 .aboutmobile{margin-top:0px;}
 @media screen and (min-width: 0px) and (max-width: 850px) 
 {
@@ -26,6 +24,7 @@
   .mobileh3{display:none!important}
   header{margin-top:-130px}
   .info{margin-left:10%!important}
+  .modal-content{width:80%!important}
  }
  @media screen and (min-width: 0px) and (max-width: 470px) 
  {
@@ -39,7 +38,7 @@
   {
     .apropos{margin-left: 100px;width:80%;margin-top:180px}
    }
-  @media screen and (min-width: 850px) and (max-width: 10000px) 
+  @media screen and (min-width: 950px) and (max-width: 10000px) 
   {
     .modal-content{width:50%!important}
    }
