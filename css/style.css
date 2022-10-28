@@ -23,6 +23,8 @@
   .aboutmobile{margin-top:280px;}
   .nommobile{margin-left:100px;margin-top:0px;margin-bottom:50px;display:block}
   .iconmobile{display:none!important}
+  .mobileh1{display:none!important}
+  .mobileh3{display:none!important}
  }
  @media screen and (min-width: 0px) and (max-width: 480px) 
  {
