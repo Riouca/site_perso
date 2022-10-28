@@ -36,7 +36,7 @@
    }
   @media screen and (min-width: 470px) and (max-width: 1300px) 
   {
-    .modal-content{width:75%}
+    .modal-content{width:75%!important}
    }
   @media screen and (min-width: 600px) and (max-width: 1000px) 
   {
@@ -44,7 +44,7 @@
    }
   @media screen and (min-width: 1400px) and (max-width: 10000px) 
   {
-    .modal-content{width:35%}
+    .modal-content{width:35%!important}
    }
 
    @media screen and (min-width: 0px) and (max-width: 600px) 
