@@ -8,9 +8,8 @@
 .modal-p{
   display: flex; margin-bottom: 30px;width:auto
 }
-.apropos{
-  margin-left: 100px;width:52%
-}
+.aboutmobile{margin-top:100px;}
+.nommobile{display:none}
 @media screen and (min-width: 0px) and (max-width: 850px) 
 {
   .navbar1 { display: none }
@@ -18,7 +17,8 @@
   .photoentete{position: absolute}
   .modal-img{position: relative;width: 350px;height:200px;display: block;}
   .modal-p{position: relative;width: auto;}
-
+  .aboutmobile{margin-top:300px;}
+  .nommobile{margin-left:50px;margin-top:50px;margin-bottom:30px}
  }
  @media screen and (min-width: 0px) and (max-width: 480px) 
  {
