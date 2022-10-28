@@ -9,7 +9,7 @@
   display: flex; margin-bottom: 30px;width:auto
 }
 .aboutmobile{margin-top:0px;}
-
+.titremobile{display:none}
 @media screen and (min-width: 0px) and (max-width: 850px) 
 {
   .navbar1 { display: none }
@@ -17,10 +17,11 @@
   .photoentete{position: absolute;padding-top:0px}
   .modal-img{position: relative;width: 350px;height:200px;display: block;}
   .modal-p{position: relative;width: auto;}
-  .aboutmobile{margin-top:340px;}
+  .aboutmobile{margin-top:400px;}
   .iconmobile{display:none!important}
   .mobileh1{display:none!important}
   .mobileh3{display:none!important}
+  .titremobile{display:block;margin-left:75px}
   header{margin-top:-125px}
  }
  @media screen and (min-width: 0px) and (max-width: 480px) 
