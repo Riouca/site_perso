@@ -8,7 +8,7 @@
 .modal-p{
   display: flex; margin-bottom: 30px;width:auto
 }
-.aboutmobile{margin-top:100px;}
+.aboutmobile{margin-top:70px;}
 @media screen and (min-width: 850px) and (max-width: 9850px){
 .nommobile{display:none}
 .descmobile{display:none}
