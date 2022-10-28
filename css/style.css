@@ -16,12 +16,12 @@
   .photoentete{position: absolute;padding-top:0px}
   .modal-img{position: relative;width: 350px;height:200px;display: block;}
   .modal-p{position: relative;width: auto;}
-  .aboutmobile{margin-top:350px!important;padding-top:130px!important}
+  .aboutmobile{margin-top:50px!important;padding-top:90px!important}
   .apropos{margin-top:30px!important}
   .iconmobile{display:none!important}
   .mobileh1{display:none!important}
   .mobileh3{display:none!important}
-  header{margin-top:-130px}
+  header{margin-top:-10px}
   .info{margin-left:10%!important}
  }
  @media screen and (min-width: 0px) and (max-width: 470px) 
