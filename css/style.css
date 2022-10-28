@@ -6,7 +6,7 @@
   font-style: normal;
 }
 .modal-p{
-  display: flex; margin-bottom: 30px;width:620px
+  display: flex; margin-bottom: 30px;width:auto
 }
 .aboutmobile{margin-top:0px;}
 @media screen and (min-width: 0px) and (max-width: 850px) 
@@ -36,6 +36,11 @@
   {
     .apropos{margin-left: 100px;width:80%;margin-top:180px}
    }
+  @media screen and (min-width: 850px) and (max-width: 10000px) 
+  {
+    .modal-content{width:50%!important}
+   }
+
    @media screen and (min-width: 0px) and (max-width: 600px) 
   {
     .apropos{margin-left: 40px;width:80%;margin-top:2300px}
