@@ -26,7 +26,7 @@
   .info{margin-left:10%!important}
   .modal-content{width:80%!important}
  }
- @media screen and (min-width: 0px) and (max-width: 470px) 
+ @media screen and (min-width: 380px) and (max-width: 470px) 
  {
    .modal-img{position: relative;width: 280px;height:170px;}
   }
@@ -34,7 +34,7 @@
   {
     .modal-img{display: none;}
    }
-  @media screen and (min-width: 850px) and (max-width: 1300px) 
+  @media screen and (min-width: 470px) and (max-width: 1300px) 
   {
     .modal-content{width:80%!important}
    }
@@ -42,9 +42,9 @@
   {
     .apropos{margin-left: 100px;width:80%;margin-top:180px}
    }
-  @media screen and (min-width: 1300px) and (max-width: 10000px) 
+  @media screen and (min-width: 1400px) and (max-width: 10000px) 
   {
-    .modal-content{width:50%!important}
+    .modal-content{width:60%!important}
    }
 
    @media screen and (min-width: 0px) and (max-width: 600px) 
