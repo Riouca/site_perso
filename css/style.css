@@ -18,7 +18,8 @@
   .modal-img{position: relative;width: 350px;height:200px;display: block;}
   .modal-p{position: relative;width: auto;}
   .aboutmobile{margin-top:300px;}
-  .nommobile{margin-left:50px;margin-top:50px;margin-bottom:30px}
+  .nommobile{margin-left:50px;margin-top:50px;margin-bottom:30px;display:block}
+  .iconmobile{display:none}
  }
  @media screen and (min-width: 0px) and (max-width: 480px) 
  {
