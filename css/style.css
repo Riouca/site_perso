@@ -23,28 +23,33 @@
   .mobileh3{display:none!important}
   header{margin-top:-130px}
   .info{margin-left:10%!important}
-  .modal-content{width:80%}
+  .modal-content{width:80%!important}
  }
- @media screen and (min-width: 380px) and (max-width: 470px) 
+ @media screen and (min-width: 390px) and (max-width: 470px) 
  {
    .modal-img{position: relative;width: 280px;height:170px;}
   }
-  @media screen and (min-width: 0px) and (max-width: 380px) 
+  @media screen and (min-width: 0px) and (max-width: 390px) 
   {
     .modal-img{display: none;}
    }
-  @media screen and (min-width: 470px) and (max-width: 1300px) 
+  @media screen and (min-width: 470px) and (max-width: 1100px) 
   {
-    .modal-content{width:75%}
+    .modal-content{width:80%!important}
    }
+   @media screen and (min-width: 1100px) and (max-width: 1850px) 
+   {
+     .modal-content{width:58%!important}
+    }
+   @media screen and (min-width: 1850px) and (max-width: 10000px) 
+   {
+     .modal-content{width:35%!important}
+    }
   @media screen and (min-width: 600px) and (max-width: 1000px) 
   {
     .apropos{margin-left: 100px;width:80%;margin-top:180px}
    }
-  @media screen and (min-width: 1400px) and (max-width: 10000px) 
-  {
-    .modal-content{width:35%}
-   }
+
 
    @media screen and (min-width: 0px) and (max-width: 600px) 
   {
@@ -1401,7 +1406,6 @@ input[type="text"] {
   margin: auto;
   padding: 20px;
   border: 1px solid #888;
-  width: 80%;
 }
 
 /* The Close Button */
