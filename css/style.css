@@ -41,7 +41,7 @@
    {
      .modal-content{width:58%}
     }
-   @media screen and (min-width: 1850px) and (max-width: 10000px) 
+   @media screen and (min-width: 1850px)
    {
      .modal-content{width:35%}
     }
