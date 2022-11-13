@@ -33,10 +33,6 @@
   {
     .modal-img{display: none;}
    }
-  @media screen and (min-width: 1500px)
-  {
-    .modal-img{position: relative;width: 1000px;height:500px;}
-   }
   @media screen and (min-width: 470px) and (max-width: 1100px) 
   {
     .modal-content{width:80%}
